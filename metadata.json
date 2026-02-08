@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RITHY JESDA ARENA",
+  "description": "A premier futsal and sports complex application featuring tournament management, seat booking, and an administrative dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
